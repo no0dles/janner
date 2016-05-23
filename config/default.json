@@ -1,0 +1,18 @@
+{
+  "network": {
+    "multicast": {
+      "ttl": 128,
+      "address": "230.185.192.108",
+      "port": 6664
+    },
+    "discovery": {
+      "proto": {
+        "filename": "./network/discovery/message.proto",
+        "path": "DiscoveryMessage"
+      }
+    },
+    "communication": {
+
+    }
+  }
+}

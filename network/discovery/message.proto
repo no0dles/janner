@@ -1,0 +1,5 @@
+message DiscoveryMessage {
+    required uint32 address = 1;
+    required uint32 port = 2;
+    required string identifier = 3;
+}
